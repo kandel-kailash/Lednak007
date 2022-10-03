@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kailash Kandel
 - 👀 I’m interested in solving problems using my programming knowledge
-- 🌱 I’m currently learning to write my documentation using md
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me:
   - 📧 _kailashkandel@gmail.com_
